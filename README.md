@@ -1,6 +1,6 @@
 ## 25 신입사원 교육용 3, 4 way handshaking 자료
 what is 3, 4 way handshaking
-정상 접속과 정상 종료의 과정
+정상 접속(3)과 정상 종료(4)의 과정
 플래그의 종류(syn,fin,rst,ack)
 비정상 종료(wait, time out 등)
 
