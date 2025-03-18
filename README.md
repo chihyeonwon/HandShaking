@@ -1,4 +1,4 @@
-## way handshaking 자료
+## way handshaking 자료 1
 what is 3, 4 way handshaking
 정상 접속(3)과 정상 종료(4)의 과정
 플래그의 종류(syn,fin,rst,ack,push,urg)와 뜻
